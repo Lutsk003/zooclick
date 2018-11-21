@@ -1,0 +1,13 @@
+.gameCount {
+    line-height: 1em;
+    height: 75px;
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+
+h2.count{
+    margin-top: 3px;
+}
+
